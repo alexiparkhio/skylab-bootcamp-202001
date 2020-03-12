@@ -15,6 +15,6 @@ module.exports = new Schema({
             textArea: { type: String }
         }
     },
-    thumbsUp: [{ type: Number }],
-    thumbsDown: [{ type: Number }]
+    thumbsUp: [{ type: ObjectId, ref: 'User' }],
+    thumbsDown: [{ type: ObjectId, ref: 'User' }]
 })

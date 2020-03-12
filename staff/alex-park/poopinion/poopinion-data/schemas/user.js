@@ -17,9 +17,8 @@ module.exports = new Schema({
     comments: {
         type: [{ type: ObjectId, ref: 'Comment' }]
     },
-    thumbsVotes: {
-        type: [{ type: ObjectId, thumbs: Boolean, ref: 'Comment' }]
-    },
+    thumbsUp: [{ type: ObjectId, ref: 'Comment' }],
+    thumbsDown: [{ type: ObjectId, ref: 'Comment' }],
     publishedToilets: {
         type: [{ type: ObjectId, ref: 'Toilet' }]
     }

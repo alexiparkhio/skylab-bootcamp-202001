@@ -2,7 +2,7 @@ const { deleteToilet } = require('../../logic')
 const { NotAllowedError, NotFoundError } = require('poopinion-errors')
 
 module.exports = (req, res) => {
-    const { params: { id, toiletId } } = req
+    const { params: { toiletId }, payload: { sub: id } } = req
 
     try {
         deleteToilet(id, toiletId)

@@ -2,7 +2,7 @@ const { publishComment } = require('../../logic')
 const { NotAllowedError, NotFoundError } = require('poopinion-errors')
 
 module.exports = (req, res) => {
-    const { body: { rating }, params: { id, toiletId } } = req
+    const { body: { rating }, params: { toiletId }, payload: { sub: id } } = req
 
     try {
         publishComment(id, toiletId, rating)

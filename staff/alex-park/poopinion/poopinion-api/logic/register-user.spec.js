@@ -45,7 +45,8 @@ describe('registerUser', () => {
                 expect(user.age).to.equal(age)
                 expect(user.created).to.be.instanceOf(Date)
                 expect(user.favToilets).to.be.instanceOf(Array)
-                expect(user.thumbsVotes).to.be.instanceOf(Array)
+                expect(user.thumbsUp).to.be.instanceOf(Array)
+                expect(user.thumbsDown).to.be.instanceOf(Array)
                 expect(user.publishedToilets).to.be.instanceOf(Array)
                 expect(user.comments).to.be.instanceOf(Array)
 
