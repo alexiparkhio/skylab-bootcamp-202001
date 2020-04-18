@@ -1,0 +1,13 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chat-server.js",
+  "scripts": {
+    "test": "npx jasmine *.specs.js",
+    "start": "node chat-server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -8,8 +8,6 @@ export default {
     },
 
     clear() {
-        delete this.token
-
         sessionStorage.clear()
     }
 }

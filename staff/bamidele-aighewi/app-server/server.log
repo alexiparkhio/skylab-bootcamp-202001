@@ -1,0 +1,36 @@
+DEBUG 2020-02-26 12:27:38.172 setting up server
+INFO 2020-02-26 12:27:38.195 server up and running on port 8080
+DEBUG 2020-02-26 12:30:58.653 setting up server
+INFO 2020-02-26 12:30:58.676 server up and running on port 8080
+DEBUG 2020-02-26 12:32:05.597 setting up server
+INFO 2020-02-26 12:32:05.619 server up and running on port 8080
+DEBUG 2020-02-26 12:44:06.645 setting up server
+INFO 2020-02-26 12:44:06.666 server up and running on port 8080
+DEBUG 2020-02-26 12:44:23.787 setting up server
+INFO 2020-02-26 12:44:23.809 server up and running on port 8080
+DEBUG 2020-02-26 12:44:34.585 setting up server
+INFO 2020-02-26 12:44:34.611 server up and running on port 8080
+DEBUG 2020-02-26 12:44:39.057 setting up server
+INFO 2020-02-26 12:44:39.084 server up and running on port 8080
+DEBUG 2020-02-26 12:44:56.783 setting up server
+INFO 2020-02-26 12:44:56.808 server up and running on port 8080
+DEBUG 2020-02-26 13:00:38.708 setting up server
+INFO 2020-02-26 13:00:38.797 server up and running on port 8080
+DEBUG 2020-02-26 13:07:53.923 setting up server
+INFO 2020-02-26 13:07:53.960 server up and running on port 8080
+DEBUG 2020-02-26 13:09:14.858 setting up server
+INFO 2020-02-26 13:09:14.886 server up and running on port 8080
+DEBUG 2020-02-26 13:10:23.444 setting up server
+INFO 2020-02-26 13:10:23.470 server up and running on port 8080
+DEBUG 2020-02-26 13:10:49.857 setting up server
+INFO 2020-02-26 13:10:49.880 server up and running on port 8080
+DEBUG 2020-02-26 13:13:02.833 setting up server
+INFO 2020-02-26 13:13:02.856 server up and running on port 8080
+ERROR 2020-02-26 15:14:15.120 Error: invalid token
+ERROR 2020-02-26 15:14:20.240 Error: invalid token
+ERROR 2020-02-26 15:14:23.330 Error: invalid token
+DEBUG 2020-02-26 15:22:28.136 setting up server
+INFO 2020-02-26 15:22:28.181 server up and running on port 8080
+DEBUG 2020-02-26 15:34:46.869 setting up server
+INFO 2020-02-26 15:34:46.905 server up and running on port 8080
+WARN 2020-02-26 18:58:05.085 server abruptly stopped
